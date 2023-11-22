@@ -1,3 +1,4 @@
+// activity for animated typing
 const sentence = "hello there from lighthouse labs";
 
 let counter = 1000;
